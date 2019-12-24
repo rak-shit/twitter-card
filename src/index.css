@@ -1,0 +1,25 @@
+.verified {
+    margin : 6px;
+}
+
+.card-content .content{
+    float: left;
+}
+
+.card-content{
+    text-align: left;
+}
+
+.icons{
+    padding-top: 15px;
+}
+
+.material-icons{
+    padding: 20px;
+}
+
+.profile{
+    border-radius: 50%;
+    margin-left: 20px;
+    margin-top: 30px;
+}
